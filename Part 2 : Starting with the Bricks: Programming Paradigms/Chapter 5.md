@@ -240,6 +240,8 @@ This is **independent deployability**.
 If the modules in your system can be deployed independently, then they can be developed
 independently by different teams. That’s **independent developability**.
 
+
+A good example can be found in this [article](https://medium.com/@gabriellamedas/dip-the-dependency-inversion-principle-dbe0f784f3aa)  if it's still ambiguous
 ## Conclusion
 
 OO is the ability, through the use of polymorphism, to gain absolute
