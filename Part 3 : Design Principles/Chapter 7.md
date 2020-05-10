@@ -123,6 +123,6 @@ So we define a class Employee and this class has an instance of each of the abov
 
 Considering the way we get the data, as it was shown there are 2 ways.
 
-1. Inside EmployeeClass have access to the data and make it private.
+1. Inside EmployeeClass creata an access to the data and make it private.
 2. Make each of the 3 classes grab the data by itself.
 
