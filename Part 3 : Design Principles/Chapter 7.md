@@ -25,7 +25,7 @@ Perhaps the best way to understand this principle is by looking at the symptoms 
 
 ## SYMPTOM 1: ACCIDENTAL DUPLICATION
 
-Let's have a look on this Emplpoyee Class.
+Let's have a look on this Employee Class.
 
 ![The Employee class](../res/fig5.png)
 
